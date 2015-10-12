@@ -1,5 +1,5 @@
 # NbPlugin
-android 插件框架，不同于apkplugin等插件框架，该框架是UI插件框架，通过该插件框架，可以快速扩展、自定义UI等操作。
+android插件框架，不同于apkplugin等插件框架，该框架是UI插件框架，通过该插件框架，可以快速扩展、自定义UI等操作。
 
 # 主要特点
 
